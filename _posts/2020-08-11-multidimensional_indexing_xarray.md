@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Interactive Brokers Dockerised
+title: Multidimensional Indexing with Xarray
 featured-img: sleek
 image: sleek
-category: [stock_trading, interactive_brokers, docker]
+category: []
 mathjax: true
 summary: sleek post
 ---

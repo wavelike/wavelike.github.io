@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Probabilistic Models in Ensembles
+title: Probabilistic models overview
 featured-img: sleek
 image: sleek
-category: [probabilistic_models, ensemble_models]
+category: [probabilistic_models]
 mathjax: true
 summary: sleek post
 ---

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Feature Engineering Formalisation
+title: Probability calibration
 featured-img: sleek
 image: sleek
-category: [feature_engineering]
+category: [probabilistic_models]
 mathjax: true
 summary: sleek post
 ---

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Interactive Brokers Dockerised
+title: Data Streaming with Interactive Brokers
 featured-img: sleek
 image: sleek
-category: [stock_trading, interactive_brokers, docker]
+category: [stock_trading, interactive_brokers, data_streaming]
 mathjax: true
 summary: sleek post
 ---
