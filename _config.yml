@@ -22,6 +22,7 @@ social:
 # THEME SETTINGS
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
+  - {name: 'Topics', link: '/topics'}
   - {name: 'About', link: '/about'}
   - {name: 'Contact', link: '/contact'}
 
