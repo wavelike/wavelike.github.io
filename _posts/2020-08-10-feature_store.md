@@ -1,11 +1,11 @@
 ---
 layout: post
-title: A simple feature store
-featured-img: sleek
+title: Feature Store for faster Feature Engineering
+featured-img: warehouse
 image: sleek
 category: [feature_engineering]
 mathjax: true
-summary: sleek post
+summary: A feature store helps to increase feature engineering iteration speed
 ---
 
 ```python
