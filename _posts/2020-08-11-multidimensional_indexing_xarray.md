@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Multidimensional Indexing with Xarray
-featured-img: sleek
-image: sleek
+featured-img: xarray
+image: xarray
 category: []
 mathjax: true
 summary: How to obtain pandas-like indexing on multidimensional data using xarray
