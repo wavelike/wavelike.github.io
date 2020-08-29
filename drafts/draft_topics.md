@@ -1,8 +1,3 @@
----
-layout: page
-title: Topics
-permalink: /topics/
----
 
 This is just a timeline of various selected topics, source material and projects I was working on in the past to give you an overview and for me to keep track: 
 

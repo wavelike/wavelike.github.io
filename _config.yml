@@ -2,9 +2,7 @@
 title: Sebastian's snippet collection  # your site title
 author: Sebastian Klipp # You :P
 description: > # Meta description of Homepage
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Collection of Machine Learning techniques, projects and code snippets
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://wavelike.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -18,7 +16,7 @@ social:
 # THEME SETTINGS
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
-  - {name: 'Topics', link: '/topics'}
+  - {name: 'Projects&Papers', link: '/projects_papers'}
   - {name: 'About', link: '/about'}
   - {name: 'Contact', link: '/contact'}
 
