@@ -14,10 +14,11 @@ This is a list of various selected personal projects and papers I read to give y
 - Setup of ML-pipelines fast and easy via configs and without writing code
 - Usage of a feature store
 - Automatic model selection, hyperparameter optimisation, cross validation, metric calculation, ensemble building
+- Deployment on AWS
 
 #### Automated Stock Trading via Interactive Brokers
 - Data Streaming via Interactive Brokers and RabbitMQ
-- Data Storage via time series database TimeScaleDb
+- Data Storage via Postgres and the time series database TimeScaleDb
 - Containerisation of Interactive Brokers Software
 - Container orchestration for 5 workers:
     1. retrieving live stock data from Interactive Brokers API
@@ -28,7 +29,7 @@ This is a list of various selected personal projects and papers I read to give y
 
 #### Stock trading strategy based on Machine Learning models
 - Various approaches to building a trading strategy that beats the market
-- Usage of Long Short-Term Memory Networks (LSTMs)
+- Leveraging of Deep Learning using the Keras package and Long Short-Term Memory Networks (LSTMs)
 - Development of a full backtesting suite using real stock time series data
 
 #### Prediction of Food Intolerances
@@ -42,6 +43,33 @@ in a network of nodes and allows contextual full text search
 - WebApp development using React, Node.js and hosting on Heroku
 - Business Model development
 - Application for an Exist Business Start-up Grant
+
+## Work-related Projects
+
+At work I was engaged in various projects mainly in the field of data pipeline implementation and Predictive Analytics:
+- Churn prediction
+- Financial Budget prediction
+- User activity prediction
+- Model insights with SHAP
+- Message personalisation
+- Customer lifetime revenue (CLR)
+- Automatic report generation
+
+Some technologies: 
+- Gradient Boosted Trees (Catboost) incl. feature engineering and hyperparameter optimisation
+- Multi-Armed Bandits
+- SHAP values for model insights
+- Bayesian AB tests 
+- Impact Analysis of events on Time Series data
+
+
+- AWS Services: S3, EC2, ECR, AWS Batch, AWS Lambda
+- Databases: Snowflake, Postgres, Elastic Search
+- Automation: Airflow
+- Containerisation: Docker
+- Big Data: Spark and Kafka
+
+
 
 ## Selected papers and books
 
