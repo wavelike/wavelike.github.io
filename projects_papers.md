@@ -4,7 +4,7 @@ title: Projects&Papers
 permalink: /projects_papers/
 ---
 
-This is a list of various selected personal projects and papers I read to give you an overview and for me to keep track:
+This is a list of various selected personal projects and papers I read:
 
 
 ## Personal Projects

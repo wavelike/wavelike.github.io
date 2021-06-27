@@ -1,10 +1,13 @@
 # SITE CONFIGURATION
-title: Sebastian's snippet collection  # your site title
+
+# your site title
+title: >
+  Sebastian Klipp - Data Scientist and Machine Learning Engineer
 author: Sebastian Klipp # You :P
 description: > # Meta description of Homepage
   Collection of Machine Learning techniques, projects and code snippets
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://wavelike.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://wavelike.github.io/about" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
 social:
@@ -15,13 +18,15 @@ social:
 
 # THEME SETTINGS
 navigation: # Navigation links
-  - {name: 'Home', link: '/'}
-  - {name: 'Projects&Papers', link: '/projects_papers'}
   - {name: 'About', link: '/about'}
-  - {name: 'Contact', link: '/contact'}
+  - {name: 'Experience&Skills', link: '/experience_skills'}
+  - {name: 'Projects&Papers', link: '/projects_papers'}
+  - {name: 'Blog', link: '/'}
+#  - {name: 'Contact', link: '/contact'}
 
-tagline: >
-  Collection of Machine Learning techniques, projects and code snippets
+tagline:
+#tagline: >
+#Collection of Machine Learning techniques, projects and code snippets
 
 hero_img: posts/wavelike.jpg # posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
