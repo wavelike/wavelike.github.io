@@ -1,2 +1,6 @@
 Run jekyll server:
 - bundle exec gulp
+
+or:
+- bundle install
+- bundle exec jekyll serve
