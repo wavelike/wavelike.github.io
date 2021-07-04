@@ -1,8 +1,8 @@
 ---
 layout: post
 title: ML Project Template for development and production
-featured-img: warehouse
-image: warehouse
+featured-img: template_preparation
+image: template_preparation
 category: [pipeline]
 mathjax: true
 summary: A bootstrap project template supporting all components of an ML pipeline from data collection over modelling to deployment and MLOps
