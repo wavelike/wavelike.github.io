@@ -4,7 +4,7 @@ title: Projects&Papers
 permalink: /projects_papers/
 ---
 
-This is a list of various selected personal projects and papers I read:
+This is a list of selected personal projects I was working on and and papers or books I read:
 
 
 ## Personal Projects
@@ -12,7 +12,7 @@ This is a list of various selected personal projects and papers I read:
 #### Automatic Machine Learning System
 - Generalisation of Machine Learning Pipeline tasks (from reading raw data to model optimisation)
 - Setup of ML-pipelines fast and easy via configs and without writing code
-- Usage of a feature store
+- Utilisation of a self designed feature store
 - Automatic model selection, hyperparameter optimisation, cross validation, metric calculation, ensemble building
 - Deployment on AWS
 
@@ -46,14 +46,13 @@ in a network of nodes and allows contextual full text search
 
 ## Work-related Projects
 
-At work I was engaged in various projects mainly in the field of data pipeline implementation and Predictive Analytics:
-- Churn prediction
+- Churn and conversion prediction
 - Financial Budget prediction
 - User activity prediction
 - Model insights with SHAP
-- Message personalisation
+- Mailing optimisation with multi-armed bandits
 - Customer lifetime revenue (CLR)
-- Automatic report generation
+- Automatic risk report generation based on Big Data
 
 Some technologies: 
 - Gradient Boosted Trees (Catboost) incl. feature engineering and hyperparameter optimisation

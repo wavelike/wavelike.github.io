@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Quick data loading with pyarrow
+title: Multiple file data loading with pyarrow
 featured-img: archery
 image: archery
 category: []
@@ -8,7 +8,7 @@ mathjax: true
 summary: Loading a dataset from disk, feature by feature with pyarrow
 ---
 
-# Multiple file loading with pyarrow
+# Multiple file data loading with pyarrow
 
 Sometimes it is preferred to store single columns of a pandas DataFrame to disk in order to reload them on demand later on.
 This could be the case in a feature selection step where only a subset of all previously engineered features shall be selected.
