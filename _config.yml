@@ -7,7 +7,7 @@ author: Sebastian Klipp # You :P
 description: > # Meta description of Homepage
   Collection of Machine Learning techniques, projects and code snippets
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://wavelike.github.io/about" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://wavelike.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
 social:

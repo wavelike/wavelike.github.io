@@ -5,5 +5,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: default
-title: Sebastian's snippet collection
+title: Sebastian Klipp - Data Scientist and Machine Learning Engineer
 ---
+
+<meta http-equiv="cache-control" content="no-cache">
