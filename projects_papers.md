@@ -77,6 +77,10 @@ Some technologies:
 - Keywords: Tabular data, interpretable neural networks, attention models
 - <https://arxiv.org/abs/1908.07442>
 
+#### Sleeping, recovering bandit algorithm
+- ***A Sleeping, Recovering Bandit Algorithm for Optimizing Recurring Notifications***
+- <https://research.duolingo.com/papers/yancey.kdd20.pdf>
+
 #### Multi-armed Bandits: A smart alternative to classical A/B testing
 - ***Multiworld Testing Decision Service:
 A System for Experimentation, Learning, And Decision-Making***

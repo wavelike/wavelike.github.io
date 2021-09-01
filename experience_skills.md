@@ -14,9 +14,11 @@ Here comes a list of algorithms, packages and data science or engineering topics
 
 **Analytics**: Churn, sales, engagement, conversion and budget prediction, customer lifetime value (CLV), explainable models via Shap
 
+**Funnel optimisation**: Predicting conversion probability of leads within the funnel
+
 **Finance**: streamed stock price predictions and feature engineering
 
-**Natural Language Processing (NLP)**: Sentiment Analysis, search, sequence to sequence models
+**Natural Language Processing (NLP)**: Sentiment analysis, semantical search, sequence to sequence models
 
 **Image classification**: ImageNet classifications and object detection
 
@@ -26,7 +28,7 @@ Here comes a list of algorithms, packages and data science or engineering topics
 
 **Big data risk reporting**: for a DAX company, using Spark, Kafka and Scala
 
-**Food Intolerance detection**
+**Food Intolerance detection**: Causality and effect estimation of eaten food on bodily pain
 
 **Startup CTO tasks**: building of full tech stack including Backend, Frontend, Data Pipelines, ML models 
 
@@ -36,7 +38,7 @@ Here comes a list of algorithms, packages and data science or engineering topics
 
 **tree models**: xgboost, catboost, lightgbm, ngboost, random forest
 
-**deep learning**: Tensorflow, Keras, CNNs, LSTMs, attention models, TabNet
+**deep learning**: TensorFlow, Keras, CNNs, LSTMs, attention models, TabNet
 
 **NLP**: gensim, nltk, spacy, topic modelling
 
@@ -82,37 +84,19 @@ Here comes a list of algorithms, packages and data science or engineering topics
 
 ## Deployment
 
-Terraform
-
 #### AWS
-EC2
-
-Lambda
-
-Sagemaker
-
-Batch
-
-Fargate
-
-ECR
+EC2, Lambda, Sagemaker, Batch, Fargate, ECR
 
 #### Google Cloud
-Cloud Function
-
-App engine
+Cloud Function, App engine
 
 #### Others
 Heroku
 
 
-### Engineering
+#### Engineering
 
-linux shell
-
-docker
-
-git
+docker, terraform, git, linux shell
 
 ---
 
